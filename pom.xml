@@ -12,6 +12,8 @@
         <module>SpringMVC-01-review</module>
         <module>SpringMVC-02-HelloMVC</module>
         <module>SpringMVC-03-annotation</module>
+        <module>SpringMVC-04-Controller</module>
+        <module>SpringMVC-05-RESTful</module>
     </modules>
 
     <properties>
