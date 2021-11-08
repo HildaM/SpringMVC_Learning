@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC-06-JSON:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_06_JSON_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMVC-06-JSON/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC-06-JSON" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.3" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+          <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.1" />
+          <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.8.1" />
+          <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.22" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.10" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

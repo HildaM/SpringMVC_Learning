@@ -14,6 +14,7 @@
         <module>SpringMVC-03-annotation</module>
         <module>SpringMVC-04-Controller</module>
         <module>SpringMVC-05-RESTful</module>
+        <module>SpringMVC-06-JSON</module>
     </modules>
 
     <properties>
